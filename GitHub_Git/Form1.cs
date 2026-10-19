@@ -12,6 +12,9 @@ namespace GitHub_Git
 {
     public partial class Form1 : Form
     {
+        int a = 0;
+        int b = 0;
+        double average = 0;
         public Form1()
         {
             InitializeComponent();
