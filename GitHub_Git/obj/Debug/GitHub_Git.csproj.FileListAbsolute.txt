@@ -1,0 +1,11 @@
+C:\Users\127358\source\repos\GitHub_Git\GitHub_Git\bin\Debug\GitHub_Git.exe.config
+C:\Users\127358\source\repos\GitHub_Git\GitHub_Git\bin\Debug\GitHub_Git.exe
+C:\Users\127358\source\repos\GitHub_Git\GitHub_Git\bin\Debug\GitHub_Git.pdb
+C:\Users\127358\source\repos\GitHub_Git\GitHub_Git\obj\Debug\GitHub_Git.csproj.AssemblyReference.cache
+C:\Users\127358\source\repos\GitHub_Git\GitHub_Git\obj\Debug\GitHub_Git.Form1.resources
+C:\Users\127358\source\repos\GitHub_Git\GitHub_Git\obj\Debug\GitHub_Git.Form2.resources
+C:\Users\127358\source\repos\GitHub_Git\GitHub_Git\obj\Debug\GitHub_Git.Properties.Resources.resources
+C:\Users\127358\source\repos\GitHub_Git\GitHub_Git\obj\Debug\GitHub_Git.csproj.GenerateResource.cache
+C:\Users\127358\source\repos\GitHub_Git\GitHub_Git\obj\Debug\GitHub_Git.csproj.CoreCompileInputs.cache
+C:\Users\127358\source\repos\GitHub_Git\GitHub_Git\obj\Debug\GitHub_Git.exe
+C:\Users\127358\source\repos\GitHub_Git\GitHub_Git\obj\Debug\GitHub_Git.pdb
